@@ -143,11 +143,11 @@ author:
     - "2024 창의적 종합설계 경진대회 은상"
     - "ICCAS 2024 in UK"
   interest:
-  - "Python"
-  - "C++"
-  - "Computer Vision"
-  - "Arduino"
-  - "Raspberrypi"
+    - "Python"
+    - "C++"
+    - "Computer Vision"
+    - "Arduino"
+    - "Raspberrypi"
 
 # Site Footer
 footer:
