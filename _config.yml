@@ -137,6 +137,13 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+sidebar:
+  about: 
+    title: "경력사항"
+    content: |
+      - **2024년**: 창의적 종합설계 경진대회 참가, 은상 수상
+      - **2023년**: IR 모의피칭대회 참가
+      - **2022년**: ICCAS 학술대회 참가
 
 # Site Footer
 footer:
