@@ -137,13 +137,6 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-career:
-    - year: "2024년"
-      description: "창의적 종합설계 경진대회 참가, 은상 수상"
-    - year: "2023년"
-      description: "IR 모의피칭대회 참가"
-    - year: "2022년"
-      description: "ICCAS 학술대회 참가"
 
 # Site Footer
 footer:
