@@ -7,6 +7,8 @@ typora-copy-images-to: ..\images\ideafestival
 
 # AISW 아이디어 경진대회
 
+2024.05.24 ~ 2024.05.25
+
 부산 코모도 호텔에서 개최된 AISW 아이디어 경진대회에 참여하였습니다.
 
 <img src="..\images\ideafestival\IMG_6498.JPEG" alt="IMG_6498" style="zoom:25%;" /><img src="..\images\ideafestival\IMG_6499.JPEG" alt="IMG_6499" style="zoom:25%;" />
