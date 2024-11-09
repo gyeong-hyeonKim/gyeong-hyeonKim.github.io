@@ -31,7 +31,7 @@ led를 잘 컨트롤 되었는데 솔레노이드는 안되어 문제점을 찾�
 
 <img src="..\images\engineer\IMG_8578.JPEG" alt="IMG_8578" style="zoom:25%;" />
 
-https://www.youtube.com/watch?v=DieOwPJsSt8&list=PLzauXyUl51GkUwtiQZNXpspz1cbQXL3Oz&index=8
+[솔레노이드 테스트 영상](https://www.youtube.com/watch?v=DieOwPJsSt8&list=PLzauXyUl51GkUwtiQZNXpspz1cbQXL3Oz&index=8)
 
 잘되는것을 확인하고 직접 제작을 하였습니다.
 
@@ -51,7 +51,7 @@ https://www.youtube.com/watch?v=DieOwPJsSt8&list=PLzauXyUl51GkUwtiQZNXpspz1cbQXL
 
 시연영상입니다.
 
-https://youtu.be/DieOwPJsSt8?list=PLzauXyUl51GkUwtiQZNXpspz1cbQXL3Oz
+[작품시연영상](https://youtu.be/DieOwPJsSt8?list=PLzauXyUl51GkUwtiQZNXpspz1cbQXL3Oz)
 
 해당 작품으로 창의적 종합설계 경진대회에 참여하여 은상을 수상하였습니다.
 
