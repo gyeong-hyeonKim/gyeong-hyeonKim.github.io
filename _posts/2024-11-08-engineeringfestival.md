@@ -31,7 +31,7 @@ led를 잘 컨트롤 되었는데 솔레노이드는 안되어 문제점을 찾�
 
 <img src="..\images\engineer\IMG_8578.JPEG" alt="IMG_8578" style="zoom:25%;" />
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Qr-1TUGTxfg" frameborder="0" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=DieOwPJsSt8&list=PLzauXyUl51GkUwtiQZNXpspz1cbQXL3Oz&index=8
 
 잘되는것을 확인하고 직접 제작을 하였습니다.
 
@@ -51,7 +51,7 @@ led를 잘 컨트롤 되었는데 솔레노이드는 안되어 문제점을 찾�
 
 시연영상입니다.
 
-<iframe width="560" height="315" src="https://youtu.be/DieOwPJsSt8?list=PLzauXyUl51GkUwtiQZNXpspz1cbQXL3Oz" frameborder="0" allowfullscreen></iframe>
+https://youtu.be/DieOwPJsSt8?list=PLzauXyUl51GkUwtiQZNXpspz1cbQXL3Oz
 
 해당 작품으로 창의적 종합설계 경진대회에 참여하여 은상을 수상하였습니다.
 
