@@ -114,14 +114,14 @@ analytics:
 # Site Author
 author:
   name             : "김경현"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "./images/KakaoTalk_20241109_195625246.jpg"
   bio              : "동서대학교 컴퓨터공학과"
   location         : "주례로 47"
   email            : "kkl5563@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      # url: "kkl5563@naver.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
