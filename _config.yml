@@ -138,12 +138,16 @@ author:
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
   career:
-    - "2024 K-ICT Week in Busan (AI Korea)"
-    - "IR모의피칭대회"
-    - "2024 창의적 종합설계 경진대회"
-  awards:
-    - "ICCAS 2024 1편"
-    - "ICCAS 2024 2편"
+    - "AISW 아이디어 경진대회 우수상"
+    - "IR모의피칭대회 우수상"
+    - "2024 창의적 종합설계 경진대회 은상"
+    - "ICCAS 2024 in UK"
+  interest:
+  - "Python"
+  - "C++"
+  - "Computer Vision"
+  - "Arduino"
+  - "Raspberrypi"
 
 # Site Footer
 footer:

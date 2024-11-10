@@ -31,11 +31,11 @@
           </ul>
         {% endif %}
 
-        {% if author.awards %}
-          <h4>Awards</h4>
+        {% if author.interest %}
+          <h4>Interest</h4>
           <ul>
-            {% for award in author.awards %}
-              <li>{{ award }}</li>
+            {% for interest in author.interest %}
+              <li>{{ interest }}</li>
             {% endfor %}
           </ul>
         {% endif %}
