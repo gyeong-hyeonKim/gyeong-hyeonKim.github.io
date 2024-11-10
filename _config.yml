@@ -137,6 +137,13 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+  career:
+    - "2024 K-ICT Week in Busan (AI Korea)"
+    - "IR모의피칭대회"
+    - "2024 창의적 종합설계 경진대회"
+  awards:
+    - "ICCAS 2024 1편"
+    - "ICCAS 2024 2편"
 
 # Site Footer
 footer:

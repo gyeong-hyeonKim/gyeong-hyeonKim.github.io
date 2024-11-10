@@ -20,6 +20,25 @@
         {{ author.bio | markdownify }}
       </div>
     {% endif %}
+
+    {% if author.career %}
+      <h4>Career</h4>
+      <ul>
+        {% for career in author.career %}
+          <li>{{ career }}</li>
+        {% endfor %}
+      </ul>
+    {% endif %}
+
+    {% if author.awards %}
+      <h4>Awards</h4>
+      <ul>
+        {% for award in author.awards %}
+          <li>{{ award }}</li>
+        {% endfor %}
+      </ul>
+    {% endif %}
+  </div>
   </div>
 
   <div class="author__urls-wrapper">
