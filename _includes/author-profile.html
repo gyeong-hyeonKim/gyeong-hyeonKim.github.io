@@ -1,8 +1,8 @@
 {% assign author = page.author | default: page.authors[0] | default: site.author %}
 {% assign author = site.data.authors[author] | default: author %}
 
-<div class="main-container" style="width: 90%; margin: 0 auto;">
-  <div class="author-container" style="float: left; width: 90%;">
+<div class="main-container" style="width: 100%; margin: 0 auto;">
+  <div class="author-container" style="float: left; width: 100%;">
     <div class="author-info" itemscope itemtype="https://schema.org/Person" class="h-card">
       {% if author.avatar %}
         <div class="author__avatar">
