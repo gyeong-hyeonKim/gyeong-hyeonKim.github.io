@@ -37,5 +37,5 @@ typora-copy-images-to: ..\images\careertone
 
 <img src="..\images\careertone\IMG_8976.JPEG" alt="IMG_8976" style="zoom:25%;" />
 <img src="..\images\careertone\IMG_8977.JPEG" alt="IMG_8977" style="zoom:25%;" />
-<img src="..\images\careertone\IMG_8982.JPEG" alt="IMG_8982" style="zoom:25%;" />
-<img src="..\images\careertone\IMG_8984.JPEG" alt="IMG_8984" style="zoom:25%;" />
+<img src="..\images\careertone\IMG_8982.JPG" alt="IMG_8982" style="zoom:25%;" />
+<img src="..\images\careertone\IMG_8984.JPG" alt="IMG_8984" style="zoom:25%;" />
