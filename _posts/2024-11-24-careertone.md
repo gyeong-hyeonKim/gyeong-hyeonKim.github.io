@@ -33,7 +33,7 @@ typora-copy-images-to: ..\images\careertone
 
 그 결과, 우수상을 수상하였습니다.
 
-**[발표자료: ]**(https://github.com/20201561KimGyeongHyeon/20201561KimGyeongHyeon.github.io/tree/master/images/careertone/해커리어_스타쉽_김경현,류현석.pptx)
+[발표자료: ](https://github.com/20201561KimGyeongHyeon/20201561KimGyeongHyeon.github.io/tree/master/images/careertone/해커리어_스타쉽_김경현,류현석.pptx)
 
 <img src="..\images\careertone\IMG_8976.JPEG" alt="IMG_8976" style="zoom:25%;" />
 <img src="..\images\careertone\IMG_8977.JPEG" alt="IMG_8977" style="zoom:25%;" />
