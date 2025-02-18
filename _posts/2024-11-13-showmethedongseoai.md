@@ -16,7 +16,7 @@ typora-copy-images-to: ..\images\showmethedongseoai
 
 깃허브를 이용하여 자신의 포토폴리오를 작성하고 해당 내용을 발표하는 시간이었습니다.
 
-**[발표자료]**(https://github.com/20201561KimGyeongHyeon/20201561KimGyeongHyeon.github.io/blob/master/images/showmethedongseoai/G.H.M_20201561_%EA%B9%80%EA%B2%BD%ED%98%84.pptx)
+[**발표자료**](https://github.com/20201561KimGyeongHyeon/20201561KimGyeongHyeon.github.io/blob/master/images/showmethedongseoai/G.H.M_20201561_%EA%B9%80%EA%B2%BD%ED%98%84.pptx)
 
 ## **1. GitHub란?**
 GitHub는 Git을 기반으로 한 웹 호스팅 서비스로, 소스 코드 관리 및 협업을 효과적으로 수행할 수 있는 플랫폼입니다.  
