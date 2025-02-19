@@ -8,7 +8,7 @@
   padding-inline: 1em;
   -webkit-animation: $intro-transition;
   animation: $intro-transition;
-  max-width: 100%;
+  max-width: 2000px;
   -webkit-animation-delay: 0.15s;
   animation-delay: 0.15s;
 
@@ -36,8 +36,8 @@ body {
 .page {
   @include breakpoint($large) {
     float: inline-end;
-    width: calc(100% - #{$right-sidebar-width-narrow});
-    padding-inline-end: $right-sidebar-width-narrow;
+    width: calc(100% - #{300px});
+    padding-inline-end: 300px;
   }
 
   @include breakpoint($x-large) {
