@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "Show me the Dongseo AI"
+categories: Award
+tag: [Github]
 date: 2024-11-13
 typora-copy-images-to: ..\images\showmethedongseoai
 ---

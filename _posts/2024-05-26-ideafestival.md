@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "AISW 아이디어 경진대회"
+categories: Award
+tag: [AI, Award]
 date: 2024-05-26
 typora-copy-images-to: ..\images\ideafestival
 ---

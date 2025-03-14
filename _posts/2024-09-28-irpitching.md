@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "IR모의피칭대회"
+categories: Award
+tag: [AI]
 date: 2024-09-27
 typora-copy-images-to: ..\images\irpitching
 ---

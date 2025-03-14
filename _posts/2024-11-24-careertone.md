@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "해커리어톤"
+categories: [Externel Activity, Award]
+tag: [Marin, AI tool]
 date: 2024-11-24
 typora-copy-images-to: ..\images\careertone
 
