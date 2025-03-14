@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "우수연구회 성과발표회"
+categories: Award
+tag: [RaspberryPi, Arduino, AI]
 date: 2024-12-04
 typora-copy-images-to: ..\images\excellent_research_group
 ---
