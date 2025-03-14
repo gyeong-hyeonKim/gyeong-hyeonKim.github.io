@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "2024 창의적 종합설계 경진대회"
-categories: Externel Activity
+categories: ExternelActivity
 tag: [AI, RaspberryPi, Arduino]
 date: 2024-09-27
 typora-copy-images-to: ..\images\engineer
