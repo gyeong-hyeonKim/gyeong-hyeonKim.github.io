@@ -7,7 +7,7 @@ date: 2024-12-04
 typora-copy-images-to: ..\images\excellent_research_group
 ---
 
-<img src="..\images\excellent_research_group\IMG_9016.JPEG" alt="IMG_8829" style="zoom:25%;" />
+<img src="..\images\excellent_research_group\IMG_9016.JPEG" alt="IMG_9016" style="zoom:25%;" />
 
 ## 1. 소개
 **Institute of Ambient Intelligence (IAI) 연구회**는 컴퓨터 비전, 이미지 처리, 컴퓨터 그래픽스를 연구하는 동서대학교 컴퓨터공학과의 우수 연구회입니다. 본 연구회는 다양한 프로젝트와 공모전 참여를 통해 실무 경험을 쌓고, 혁신적인 기술 개발을 목표로 하고 있습니다.
