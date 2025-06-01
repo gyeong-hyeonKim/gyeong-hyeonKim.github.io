@@ -4,7 +4,7 @@ title: "AISW 아이디어 경진대회"
 categories: Award
 tag: [AI, Award]
 date: 2024-05-26
-typora-copy-images-to: ..\images\ideafestival
+typora-copy-images-to: ../images/ideafestival
 ---
 
 **1. 프로젝트 개요**
@@ -83,10 +83,10 @@ typora-copy-images-to: ..\images\ideafestival
 
 이처럼 AI 기반 일정 추천 및 자동화 기술은 개인의 생산성 향상뿐 아니라, 교육 및 산업 현장 전반에 적용 가능한 확장성 높은 솔루션으로 기대됩니다.
 
-<img src="..\images\ideafestival\IMG_6503.JPG" alt="IMG_6503" style="zoom: 25%;" />
+<img src="/images/ideafestival/IMG_6503.JPG" alt="IMG_6503" style="zoom: 25%;" />
 
-<img src="..\images\ideafestival\IMG_6504.JPG" alt="IMG_6504" style="zoom:25%;" />
+<img src="../images/ideafestival/IMG_6504.JPG" alt="IMG_6504" style="zoom:25%;" />
 
-<img src="..\images\ideafestival\IMG_6505.JPG" alt="IMG_6505" style="zoom:25%;" />
+<img src="../images/ideafestival/IMG_6505.JPG" alt="IMG_6505" style="zoom:25%;" />
 
-<img src="..\images\ideafestival\IMG_6508.JPG" alt="IMG_6508" style="zoom:25%;" />
+<img src="../images/ideafestival/IMG_6508.JPG" alt="IMG_6508" style="zoom:25%;" />
