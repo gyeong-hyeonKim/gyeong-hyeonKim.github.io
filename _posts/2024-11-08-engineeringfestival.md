@@ -51,8 +51,9 @@ typora-copy-images-to: ../images/engineer
 <p align="center">
   <img src="/images/engineer/슬라이드12.PNG" alt="구조" width="900">
 </p>
+
 | 구성 요소 | 설명 |
-|-----------|------|
+|-----------------|-----------------------------------|
 | Arduino Uno | 솔레노이드 제어 |
 | Solenoid (총 76개) | 점자(12개), 한글 구성(초성·중성·종성 총 64개) |
 | SMPS | 12V 40A 전원 공급장치 |
