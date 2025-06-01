@@ -18,21 +18,21 @@ typora-copy-images-to: ../images/ideafestival
 
 **2. 주제 선정 이유**  
 <p align="center">
-<img src="/images/ideafestival/dashboard.png" alt="dashboard" width="1000" /><br>
+<img src="/images/ideafestival/dashboard.png" alt="dashboard" style="zoom: 50%;" /><br>
 </p>
 대학생들은 매일 다양한 학습 정보를 확인해야 하지만, 현재의 학사 시스템은 이를 효율적으로 관리하기 어렵습니다.  
 예를 들어, 동서대학교 이클래스 사이트에서는 공지사항·과제·강의자료 등의 항목들이 시간순으로만 정렬되어 있어 한눈에 보기 어렵고, 원하는 정보를 찾기 어려운 구조를 가지고 있습니다.
 
 이로 인해 실제로 많은 학생들이 다음과 같은 불편을 겪고 있었습니다:  
 <p align="center">
-<img src="/images/ideafestival/problem.png" alt="problem" width="1000" /><br>
+<img src="/images/ideafestival/problem.png" alt="problem" style="zoom: 50%;" /><br>
 </p>
 - 공지를 놓쳐 휴강을 모르고 학교에 헛걸음
 - 과제 기한을 깜빡하고 제출하지 못함
 - 폰으로 받는 푸시 알림도 다른 앱 알림에 묻혀 확인이 어려움
 
 <p align="center">
-<img src="/images/ideafestival/research.png" alt="research" width="1000" /><br>
+<img src="/images/ideafestival/research.png" alt="research" style="zoom: 50%;" /><br>
 </p>
 이러한 학습관리의 불편함을 실제로 확인하고자 학우 33명을 대상으로 설문조사를 실시한 결과, 84.8%가 공지를 확인하지 못해 불편함을 겪은 경험이 있다고 답했습니다.  
 <br>
@@ -45,7 +45,7 @@ typora-copy-images-to: ../images/ideafestival
 
 **3. 시스템 설명**  
 <p align="center">
-<img src="/images/ideafestival/process.png" alt="process" width="1000" /><br>
+<img src="/images/ideafestival/process.png" alt="process" style="zoom: 50%;" /><br>
 </p>
 - LMS에서 챗봇에 원하는 정보를 입력
 - LLM은 해당 요청을 LMS DB를 바탕으로 정보 전달
@@ -91,8 +91,8 @@ typora-copy-images-to: ../images/ideafestival
 
 이처럼 AI 기반 일정 추천 및 자동화 기술은 개인의 생산성 향상뿐 아니라, 교육 및 산업 현장 전반에 적용 가능한 확장성 높은 솔루션으로 기대됩니다.
 <p align="center">
-<img src="/images/ideafestival/IMG_6503.JPG" alt="IMG_6503" width="1000" />  
-<img src="/images/ideafestival/IMG_6504.JPG" alt="IMG_6504" width="1000" />  
-<img src="/images/ideafestival/IMG_6505.JPG" alt="IMG_6505" width="1000" />  
-<img src="/images/ideafestival/IMG_6508.JPG" alt="IMG_6508" width="1000" />  
+<img src="/images/ideafestival/IMG_6503.JPG" alt="IMG_6503" style="zoom: 50%;" />  
+<img src="/images/ideafestival/IMG_6504.JPG" alt="IMG_6504" style="zoom: 50%;" />  
+<img src="/images/ideafestival/IMG_6505.JPG" alt="IMG_6505" style="zoom: 50%;" />  
+<img src="/images/ideafestival/IMG_6508.JPG" alt="IMG_6508" style="zoom: 50%;" />  
 </p>
