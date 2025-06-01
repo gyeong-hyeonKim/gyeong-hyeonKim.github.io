@@ -21,7 +21,7 @@ typora-copy-images-to: ../images/ICCAS2024
 ## 2. 주제 선정 이유
 
 현대인의 잘못된 자세 습관과 스마트폰·컴퓨터 사용 증가로 인해 요통 및 목 통증을 호소하는 인구가 증가하고 있습니다.  
-<img src="/images/ICCAS2024/POSE/slide4.png" alt="Statistics" style="zoom: 25%;" />
+<img src="/images/ICCAS2024/slide4.png" alt="Statistics" style="zoom: 25%;" />  
 - 2020년 디스크 환자 수: **272만 명**  
 - 2021년 디스크 환자 수: **279만 명**  
 (출처 : Korea Health Insurance Review & Assessment Service)
@@ -32,15 +32,15 @@ typora-copy-images-to: ../images/ICCAS2024
 
 ## 3. 시스템 설명
 
-### 핵심 기능
-<img src="/images/ICCAS2024/POSE/slide10.png" alt="function" style="zoom: 25%;" />
+### 핵심 기능  
+<img src="/images/ICCAS2024/slide10.png" alt="function" style="zoom: 25%;" />  
 - **AI 자세 분석**: ResNet-50 기반 모델을 활용하여 신체 주요 관절 위치와 각도를 분석
 - **실시간 피드백**: 사용자 자세의 정확도를 실시간 점수화 및 시각화
 - **게임 기반 운동 루틴**: 스테이지와 챕터로 구성된 다양한 McKenzie 운동 수행
 - **보상 시스템**: 정확도에 따라 캐릭터 성장, 스킨 구매 등 보상 제공
 
-### 개발 환경
-<img src="/images/ICCAS2024/POSE/slide8.png" alt="Dev. Env." style="zoom: 25%;" />
+### 개발 환경  
+<img src="/images/ICCAS2024/slide8.png" alt="Dev. Env." style="zoom: 25%;" />  
 - AI 모델: ResNet-50
 - 게임 엔진: Unity
 - DB: 사용자 정보, 자세 분석 데이터, 게임 내 진척도 저장
@@ -49,13 +49,13 @@ typora-copy-images-to: ../images/ICCAS2024
 
 ## 5. 인게임 화면
 
-<img src="/images/ICCAS2024/POSE/slide13.png" alt="screen1" style="zoom: 25%;" />  
-<img src="/images/ICCAS2024/POSE/slide14.png" alt="screen2" style="zoom: 25%;" />  
-<img src="/images/ICCAS2024/POSE/slide15.png" alt="screen3" style="zoom: 25%;" />  
-<img src="/images/ICCAS2024/POSE/slide16.png" alt="screen4" style="zoom: 25%;" />  
-<img src="/images/ICCAS2024/POSE/slide17.png" alt="screen5" style="zoom: 25%;" />  
-<img src="/images/ICCAS2024/POSE/slide18.png" alt="screen6" style="zoom: 25%;" />  
-<img src="/images/ICCAS2024/POSE/slide19.png" alt="screen7" style="zoom: 25%;" />
+<img src="/images/ICCAS2024/slide13.png" alt="screen1" style="zoom: 25%;" />  
+<img src="/images/ICCAS2024/slide14.png" alt="screen2" style="zoom: 25%;" />  
+<img src="/images/ICCAS2024/slide15.png" alt="screen3" style="zoom: 25%;" />  
+<img src="/images/ICCAS2024/slide16.png" alt="screen4" style="zoom: 25%;" />  
+<img src="/images/ICCAS2024/slide17.png" alt="screen5" style="zoom: 25%;" />  
+<img src="/images/ICCAS2024/slide18.png" alt="screen6" style="zoom: 25%;" />  
+<img src="/images/ICCAS2024/slide19.png" alt="screen7" style="zoom: 25%;" />
 
 ---
 
