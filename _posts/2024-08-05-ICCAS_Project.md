@@ -6,8 +6,9 @@ tag: [AI, unity]
 date: 2024-08-05
 ---
 
-# 📌 프로젝트명  
+# 프로젝트  
 **Medical Posture Correction Game for Disc Prevention and Patients (P.O.S.E)**
+참여기간 : 2024-04 ~ 2024-08
 
 ---
 
