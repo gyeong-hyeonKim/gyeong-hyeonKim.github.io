@@ -91,8 +91,8 @@ typora-copy-images-to: ../images/ideafestival
 
 이처럼 AI 기반 일정 추천 및 자동화 기술은 개인의 생산성 향상뿐 아니라, 교육 및 산업 현장 전반에 적용 가능한 확장성 높은 솔루션으로 기대됩니다.
 <p align="center">
-<img src="/images/ideafestival/IMG_6503.JPG" alt="IMG_6503" width="900" />  
-<img src="/images/ideafestival/IMG_6504.JPG" alt="IMG_6504" width="900" />  
-<img src="/images/ideafestival/IMG_6505.JPG" alt="IMG_6505" width="900" />  
-<img src="/images/ideafestival/IMG_6508.JPG" alt="IMG_6508" width="900" />  
+<img src="/images/ideafestival/IMG_6503.JPG" alt="IMG_6503" width="600" />  
+<img src="/images/ideafestival/IMG_6504.JPG" alt="IMG_6504" width="600" />  
+<img src="/images/ideafestival/IMG_6505.JPG" alt="IMG_6505" width="600" />  
+<img src="/images/ideafestival/IMG_6508.JPG" alt="IMG_6508" width="600" />  
 </p>

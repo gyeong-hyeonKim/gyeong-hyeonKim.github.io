@@ -4,10 +4,10 @@ title: "우수연구회 성과발표회"
 categories: Award
 tag: [RaspberryPi, Arduino, AI]
 date: 2024-12-04
-typora-copy-images-to: ..\images\excellentresearchgroup
+typora-copy-images-to: ../images/excellentresearchgroup
 ---
 
-<img src="..\images\excellentresearchgroup\IMG_9016.JPEG" alt="IMG_9016" style="zoom:25%;" />
+<img src="/images/excellentresearchgroup/IMG_9016.JPEG" alt="IMG_9016" width="900" />
 
 ## 1. 소개
 **Institute of Ambient Intelligence (IAI) 연구회**는 컴퓨터 비전, 이미지 처리, 컴퓨터 그래픽스를 연구하는 동서대학교 컴퓨터공학과의 우수 연구회입니다. 본 연구회는 다양한 프로젝트와 공모전 참여를 통해 실무 경험을 쌓고, 혁신적인 기술 개발을 목표로 하고 있습니다.
@@ -76,7 +76,7 @@ typora-copy-images-to: ..\images\excellentresearchgroup
 ---
 
 동서대학교 주관 우수연구회 성과발표에서 최우수상 수상
-<img src="..\images\excellentresearchgroup\IMG_0985.JPG" alt="IMG_0985" style="zoom:25%;" />
-<img src="..\images\excellentresearchgroup\IMG_9019.JPG" alt="IMG_9019" style="zoom:25%;" />
+<img src="/images/excellentresearchgroup/IMG_0985.JPG" alt="IMG_0985" width="900" />
+<img src="/images/excellentresearchgroup/IMG_9019.JPG" alt="IMG_9019" width="900" />
 
 [**발표자료**](https://github.com/20201561KimGyeongHyeon/20201561KimGyeongHyeon.github.io/blob/master/images/excellent_research_group/IAI%EC%97%B0%EA%B5%AC%ED%9A%8C_ppt(%EC%B5%9C%EC%A2%85).pptx)

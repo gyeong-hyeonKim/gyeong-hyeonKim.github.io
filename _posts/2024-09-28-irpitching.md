@@ -4,10 +4,8 @@ title: "IR모의피칭대회"
 categories: Award
 tag: [AI]
 date: 2024-09-27
-typora-copy-images-to: ../images/irpitching
+typora-copy-images-to: ../images/ictweek
 ---
-
-# IR모의피칭대회
 
 [AISW 아이디어 경진대회](https://20201561kimgyeonghyeon.github.io/award/ideafestival/)
 2024-09-27
@@ -18,11 +16,9 @@ typora-copy-images-to: ../images/irpitching
 
 IR모의피칭대회를 시작하기전 사전교육을 진행하였습니다.
 
-<img src="/images/ictweek/IMG_8525.JPEG" alt="IMG_8525" width="900" />
-
-<img src="/images/ictweek/IMG_8528.JPEG" alt="IMG_8528" width="900" />
-
-<img src="/images/ictweek/IMG_8530.JPEG" alt="IMG_8530" width="900" />
+<img src="/images/ictweek/IMG_8525.JPEG" alt="IMG_8525" width="900" />  
+<img src="/images/ictweek/IMG_8528.JPEG" alt="IMG_8528" width="900" />  
+<img src="/images/ictweek/IMG_8530.JPEG" alt="IMG_8530" width="900" />  
 
 교육을 받은 뒤 실제 IR피칭을 대비한 PPT를 제작하였습니다.
 
