@@ -20,7 +20,7 @@ date: 2024-08-05
 ## 2. 주제 선정 이유
 
 현대인의 잘못된 자세 습관과 스마트폰·컴퓨터 사용 증가로 인해 요통 및 목 통증을 호소하는 인구가 증가하고 있습니다.  
-<img src="/images/ICCAS2024/slide4.png" alt="Statistics" style="zoom: 25%;" />  
+<img src="/images/ICCAS2024/slide4.PNG" alt="Statistics" style="zoom: 25%;" />  
 - 2020년 디스크 환자 수: **272만 명**  
 - 2021년 디스크 환자 수: **279만 명**  
 (출처 : Korea Health Insurance Review & Assessment Service)
