@@ -138,14 +138,18 @@ author:
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
   award:
-    - "AISW 아이디어 경진대회 우수상"
-    - "IR모의피칭대회 우수상"
+    - "교내 우수연구회 최우수상"
+    - "기업수요 실무 프로젝트 해커리어톤 현대중공업편편 우수상"
+    - "교내 학술제 최우수상"
     - "2024 창의적 종합설계 경진대회 은상"
-    - "ICCAS 2024 in UK"
+    - "교내 IR 모의 피칭 대회 우수상"
+    - "AISW 아이디어 경진대회 우수상"
   interest:
     - "Python"
-    - "C++"
+    - "C"
     - "Computer Vision"
+    - "LLM"
+    - "RL"
     - "Arduino"
     - "Raspberrypi"
 
