@@ -4,7 +4,6 @@ title: "ICCAS 2024 Project"
 categories: Project
 tag: [AI, unity]
 date: 2024-08-05
-typora-copy-images-to: ../images/ICCAS2024
 ---
 
 # 📌 프로젝트명  
@@ -40,7 +39,7 @@ typora-copy-images-to: ../images/ICCAS2024
 - **보상 시스템**: 정확도에 따라 캐릭터 성장, 스킨 구매 등 보상 제공
 
 ### 개발 환경  
-<img src="/images/ICCAS2024/slide8.png" alt="Dev. Env." style="zoom: 25%;" />  
+<img src="/images/ICCAS2024/slide8.png" alt="Dev.Env." style="zoom: 25%;" />  
 - AI 모델: ResNet-50
 - 게임 엔진: Unity
 - DB: 사용자 정보, 자세 분석 데이터, 게임 내 진척도 저장
