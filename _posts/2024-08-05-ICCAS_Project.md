@@ -102,12 +102,12 @@ date: 2024-08-05
 **P.O.S.E**는 디스크 예방 및 재활을 위한 McKenzie 운동을 게임화하여, 사용자에게 **건강한 운동 습관과 재미**를 동시에 제공합니다.  
 AI를 활용한 실시간 자세 분석과 피드백 기능은 향후 **디지털 치료제(DTx)** 또는 **홈트레이닝 서비스**로의 확장 가능성도 가지고 있습니다.
 
-> 건강은 지키는 것보다 무너지지 않게 예방하는 것이 더 중요합니다.  
-> **P.O.S.E**는 그 시작을 게임으로 만들어 갑니다.
+> *건강은 지키는 것보다 무너지지 않게 예방하는 것이 더 중요합니다.*  
+> ***P.O.S.E**는 그 시작을 게임으로 만들어 갑니다.*
 
 ---
 
 
-- [프로젝트 코드](https://github.com/zachpaul7/ICCAS_4)  
-- [발표자료](https://drive.google.com/file/d/1mciSA6k7jMiwEmd2MdGlWDDxnLXxcEWT/view?usp=sharing)  
-- [EKC2024 포스터 세션](https://drive.google.com/file/d/14yUuSrNu6T3y3odnOtQFwmmDYyRWfyH4/view?usp=sharing)
+- [*프로젝트 코드*](https://github.com/zachpaul7/ICCAS_4)  
+- [*발표자료*](https://drive.google.com/file/d/1mciSA6k7jMiwEmd2MdGlWDDxnLXxcEWT/view?usp=sharing)  
+- [*EKC2024 포스터 세션*](https://drive.google.com/file/d/14yUuSrNu6T3y3odnOtQFwmmDYyRWfyH4/view?usp=sharing)
