@@ -108,6 +108,6 @@ AI를 활용한 실시간 자세 분석과 피드백 기능은 향후 **디지�
 ---
 
 
-- [*프로젝트 코드*](https://github.com/zachpaul7/ICCAS_4)  
-- [*발표자료*](https://drive.google.com/file/d/1mciSA6k7jMiwEmd2MdGlWDDxnLXxcEWT/view?usp=sharing)  
-- [*EKC2024 포스터 세션*](https://drive.google.com/file/d/14yUuSrNu6T3y3odnOtQFwmmDYyRWfyH4/view?usp=sharing)
+- *[프로젝트 코드](https://github.com/zachpaul7/ICCAS_4)*  
+- *[발표자료](https://drive.google.com/file/d/1mciSA6k7jMiwEmd2MdGlWDDxnLXxcEWT/view?usp=sharing)*  
+- *[EKC2024 포스터 세션](https://drive.google.com/file/d/14yUuSrNu6T3y3odnOtQFwmmDYyRWfyH4/view?usp=sharing)*
