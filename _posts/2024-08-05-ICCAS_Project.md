@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "ICCAS 2024 1편"
+title: "ICCAS 2024 Project"
 categories: Project
 tag: [AI, unity]
 date: 2024-08-05
