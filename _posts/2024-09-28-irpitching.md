@@ -16,9 +16,11 @@ typora-copy-images-to: ../images/ictweek
 
 IR모의피칭대회를 시작하기전 사전교육을 진행하였습니다.
 
+<p align="center">
 <img src="/images/ictweek/IMG_8525.JPEG" alt="IMG_8525" width="900" />  
 <img src="/images/ictweek/IMG_8528.JPEG" alt="IMG_8528" width="900" />  
-<img src="/images/ictweek/IMG_8530.JPEG" alt="IMG_8530" width="900" />  
+<img src="/images/ictweek/IMG_8530.JPEG" alt="IMG_8530" width="900" /> 
+</p> 
 
 교육을 받은 뒤 실제 IR피칭을 대비한 PPT를 제작하였습니다.
 
@@ -26,4 +28,6 @@ PPT발표 후 앞으로 학생들이 줄어들면서 교육시장의 축소도 �
 
 우수상을 수상하였습니다.
 
+<p align="center">
 <img src="/images/ictweek/ir1.jpg" alt="ir1" width="900" />
+</p>

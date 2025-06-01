@@ -76,7 +76,9 @@ typora-copy-images-to: ../images/excellentresearchgroup
 ---
 
 동서대학교 주관 우수연구회 성과발표에서 최우수상 수상
+<p align="center">
 <img src="/images/excellentresearchgroup/IMG_0985.JPG" alt="IMG_0985" width="900" />
 <img src="/images/excellentresearchgroup/IMG_9019.JPG" alt="IMG_9019" width="900" />
+</p>
 
 [**발표자료**](https://github.com/20201561KimGyeongHyeon/20201561KimGyeongHyeon.github.io/blob/master/images/excellent_research_group/IAI%EC%97%B0%EA%B5%AC%ED%9A%8C_ppt(%EC%B5%9C%EC%A2%85).pptx)

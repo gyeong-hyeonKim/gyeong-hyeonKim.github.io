@@ -37,7 +37,9 @@ typora-copy-images-to: ../images/careertone
 
 [**발표자료**](https://github.com/20201561KimGyeongHyeon/20201561KimGyeongHyeon.github.io/tree/master/images/careertone/해커리어_스타쉽_김경현,류현석.pptx)
 
+<p align="center">
 <img src="/images/careertone/IMG_8976.JPEG" alt="IMG_8976" width="900" />
 <img src="/images/careertone/IMG_8977.JPEG" alt="IMG_8977" width="900" />
 <img src="/images/careertone/IMG_8982.JPG" alt="IMG_8982" width="900" />
 <img src="/images/careertone/IMG_8984.JPG" alt="IMG_8984" width="900"" />
+</p>

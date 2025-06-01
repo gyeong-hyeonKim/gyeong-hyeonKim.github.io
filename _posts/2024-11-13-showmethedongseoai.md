@@ -74,6 +74,8 @@ GitHub 프로필을 활용하여 다양한 프로젝트를 관리하고 있습�
 
 그 결과 Github 쇼케이스 장려상, Show me the Dongseo AI 최우수상을 수상하였습니다.
 
+<p align="center">
 <img src="/images/showmethedongseoai/IMG_8829.JPG" alt="IMG_8829" width="900" />
 <img src="/images/showmethedongseoai/IMG_8836.JPEG" alt="IMG_8836" width="900" />
 <img src="/images/showmethedongseoai/IMG_8837.JPEG" alt="IMG_8837" width="900" />
+</p>
