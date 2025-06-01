@@ -4,12 +4,13 @@ title: "IR모의피칭대회"
 categories: Award
 tag: [AI]
 date: 2024-09-27
-typora-copy-images-to: ..\images\irpitching
+typora-copy-images-to: ../images/irpitching
 ---
 
 # IR모의피칭대회
 
-2024.09.27
+[AISW 아이디어 경진대회](https://20201561kimgyeonghyeon.github.io/award/ideafestival/)
+2024-09-27
 
 5월에 참여했었던 AISW 아이디어 경진대회에 연장 대회인 IR모의피칭대회에 참여하였습니다.
 
@@ -17,11 +18,11 @@ typora-copy-images-to: ..\images\irpitching
 
 IR모의피칭대회를 시작하기전 사전교육을 진행하였습니다.
 
-<img src="..\images\ictweek\IMG_8525.JPEG" alt="IMG_8525" style="zoom:25%;" />
+<img src="/images/ictweek/IMG_8525.JPEG" alt="IMG_8525" width="900" />
 
-<img src="..\images\ictweek\IMG_8528.JPEG" alt="IMG_8528" style="zoom:25%;" />
+<img src="/images/ictweek/IMG_8528.JPEG" alt="IMG_8528" width="900" />
 
-<img src="..\images\ictweek\IMG_8530.JPEG" alt="IMG_8530" style="zoom:25%;" />
+<img src="/images/ictweek/IMG_8530.JPEG" alt="IMG_8530" width="900" />
 
 교육을 받은 뒤 실제 IR피칭을 대비한 PPT를 제작하였습니다.
 
@@ -29,4 +30,4 @@ PPT발표 후 앞으로 학생들이 줄어들면서 교육시장의 축소도 �
 
 우수상을 수상하였습니다.
 
-<img src="..\images\ictweek\ir1.jpg" alt="ir1" style="zoom:15%;" />
+<img src="/images/ictweek/ir1.jpg" alt="ir1" width="900" />
