@@ -45,8 +45,8 @@ typora-copy-images-to: ../images/2025springconference
 
 본 연구에서는 LLM을 통해 보상함수를 생성하고, 시뮬레이션 결과에 대한 사용자 피드백을 반영하여 함수를 개선하는 순환 구조의 프로세스를 제안합니다.
 
-
-*<p align="center"><img src="/images/2025springconference/process.png" alt="process" width="900" />그림 1: 제안된 프로세스 개요</p>*
+<img src="/images/2025springconference/process.png" alt="process" width="900" />
+*<p align="center">그림 1: 제안된 프로세스 개요</p>*
 
 
 **프로세스 단계:**
@@ -89,7 +89,8 @@ LLM에 초기 프롬프트를 입력하고, 시뮬레이션 결과를 바탕으�
 #### **3차 시도**
 * **결과:** 충돌 페널티가 추가된 보상함수를 통해 선박이 장애물을 회피하며 성공적으로 목표에 도달하는 것을 확인함. 학습이 진행됨에 따라 보상 그래프가 점차 개선되는 양상을 보임.
 
-*<p align="center"><img src="/images/2025springconference/Figure_1.png" alt="process" width="900" />그림 2: 학습 결과</p>*
+<img src="/images/2025springconference/Figure_1.png" alt="process" width="900" />
+*<p align="center">그림 2: 학습 결과</p>*
 
 ---
 
