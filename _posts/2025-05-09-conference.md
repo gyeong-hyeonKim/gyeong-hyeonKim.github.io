@@ -1,8 +1,8 @@
 ---
 layout: single
 title: "2025 대한조선학회 춘계학술대회"
-categories: conference
-tag: [RL,conference]
+categories: Conference
+tag: [AI]
 date: 2025-05-09
 typora-copy-images-to: ../images/2025springconference
 ---
