@@ -106,3 +106,5 @@ LLM에 초기 프롬프트를 입력하고, 시뮬레이션 결과를 바탕으�
 
 * 정량적 제약 조건(예: 속도 제한)을 더 정확하게 반영하기 위한 프롬프트 전략 고도화
 * 다양한 항만 및 장거리 운항 시나리오에 대한 프레임워크 확장
+
+**[발표자료](https://drive.google.com/file/d/1ANZg8QMxleJqOCmjBOdWOo_ZBNofD1_q/view?usp=sharing)**
